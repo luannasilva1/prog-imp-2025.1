@@ -1,5 +1,5 @@
 public class Exemplo01{
-    public static void main (String args[]){
+    public static void main (String[] args){
     //System.out.print("Olá mundo!");
     System.out.println("o dobro de 10.7 é " + dobro(10.7));
     }  
