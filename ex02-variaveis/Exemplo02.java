@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Exemplo02 {
     public static Scanner sc = new Scanner(System.in);
-    public static void main(String args[]){
+    public static void main(String[] args){
         int num1 = 10, num2;
         double num3 = 3.15, num4;
 
